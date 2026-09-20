@@ -27,7 +27,7 @@ class SeniorAIEngineer:
         self.title      = "Lead AI / MLOps & Distributed Systems Architect"
         self.education  = "B.Tech in Artificial Intelligence & Data Science (2026)"
         self.expertise  = ["MLOps Pipelines", "LLMs / RAG Architectures", "Real-Time ETL", "High-Throughput APIs"]
-        self.stack      = ["Python 3.11+", "FastAPI", "XGBoost", "LangChain", "Apache Airflow", "Docker", "dbt"]
+        self.stack      = ["Python 3.10+", "FastAPI", "XGBoost", "LangChain", "Apache Airflow", "Docker", "dbt"]
         self.location   = "India 🇮🇳"
         self.status     = "🚀 Open for High-Impact Software Engineering & AI Roles"
 
@@ -47,30 +47,30 @@ print(me.mission())
 | Domain | Technologies |
 |---|---|
 | **Programming Languages** | `Python 3.10+`, `SQL (PostgreSQL / Snowflake)`, `JavaScript (ES6+)`, `Bash` |
-| **Machine Learning & MLOps** | `XGBoost`, `scikit-learn`, `MLflow`, `Optuna`, `SHAP`, `Optuna`, `Imbalanced-Learn` |
+| **Machine Learning & MLOps** | `XGBoost`, `scikit-learn`, `MLflow`, `Optuna`, `SHAP`, `Imbalanced-Learn` |
 | **Generative AI & LLMs** | `LangChain`, `ChromaDB`, `HuggingFace Transformers`, `BERT`, `Streamlit` |
 | **Data Engineering & ETL** | `Apache Airflow`, `dbt`, `PostgreSQL`, `SQLAlchemy`, `Pandas`, `NumPy` |
 | **Backend & Microservices** | `FastAPI`, `Pydantic v2`, `Uvicorn`, `RESTful APIs`, `gRPC` |
 | **DevOps & Infrastructure** | `Docker`, `Docker Compose`, `GitHub Actions CI/CD`, `Linux / PowerShell` |
-| **Testing & Quality** | `pytest`, `httpx`, `black`, `flake8`, `mypy` |
+| **Testing & Quality** | `pytest`, `httpx`, `py_compile`, `flake8` |
 
 </div>
 
 ---
 
-## 🚀 Featured Enterprise Projects & Live Demos
+## 🚀 Production Projects & Repositories
 
 <div align="center">
 
-| Project Title & Architecture | Key Features | Stack | Live Demo / Docs | GitHub Repo |
+| Project Title & Architecture | Description | Stack | GitHub Repository | Architecture & Code |
 |---|---|---|---|---|
-| **🤖 AegisML — Enterprise MLOps Engine** | End-to-end churn prediction, MLflow tracking, Optuna HPO, Dockerized API | `XGBoost` `MLflow` `FastAPI` `Docker` | [🌐 Live API Docs](https://aegis-mlops-api.onrender.com/docs) | [📦 Repository](https://github.com/HasnainChavhan/customer-churn-mlops) |
-| **🧠 NexusRAG — Autonomous Document QA Platform** | LLM-powered multi-document QA engine with vector similarity search | `LangChain` `ChromaDB` `Streamlit` | [⚡ Live App](https://nexus-rag.streamlit.app) | [📦 Repository](https://github.com/HasnainChavhan/neuro-agent) |
-| **⚡ PulseData — Real-Time ETL Pipeline** | Automated e-commerce sales ETL, Airflow DAGs & dbt analytics models | `Airflow` `dbt` `PostgreSQL` `Docker` | [📊 Live Airflow UI](https://pulse-etl-analytics.onrender.com) | [📦 Repository](https://github.com/HasnainChavhan/pulse-etl) |
-| **💳 AuditRisk AI — Credit Risk & Default Scoring** | Financial loan default scoring, SMOTE balancing, SHAP explainability | `XGBoost` `SHAP` `FastAPI` `pytest` | [🌐 Live API Docs](https://audit-risk-ai.onrender.com/docs) | [📦 Repository](https://github.com/HasnainChavhan/secure-audit) |
-| **🎭 VectraNLP — Real-Time Sentiment Engine** | Fine-tuned BERT text sentiment engine with confidence metrics | `HuggingFace` `BERT` `Streamlit` | [⚡ Live App](https://vectra-nlp.streamlit.app) | [📦 Repository](https://github.com/HasnainChavhan/distro-orchestra) |
-| **📊 InsightBI — Executive Analytics Dashboard** | Real-time SQL metrics dashboard for sales & customer retention | `Plotly Dash` `PostgreSQL` `SQL` | [📊 Live Dashboard](https://insight-bi-dashboard.onrender.com) | [📦 Repository](https://github.com/HasnainChavhan/codelens) |
-| **🧩 Algorithms Core — Data Structures Suite** | 25+ production-grade Python DSA solutions with complexity analysis | `Python` `pytest` `DSA Patterns` | [📄 Tech Specs](https://github.com/HasnainChavhan/leetcode-solutions#readme) | [📦 Repository](https://github.com/HasnainChavhan/leetcode-solutions) |
+| **🤖 AegisML — MLOps Churn Engine** | End-to-end churn prediction, MLflow tracking, Optuna HPO, Dockerized API | `XGBoost` `MLflow` `FastAPI` `Docker` | [📦 View Repository](https://github.com/HasnainChavhan/customer-churn-mlops) | [📄 Documentation](https://github.com/HasnainChavhan/customer-churn-mlops#readme) |
+| **🧠 NexusRAG — Document QA Platform** | LLM-powered multi-document QA engine with vector similarity search | `LangChain` `ChromaDB` `Streamlit` | [📦 View Repository](https://github.com/HasnainChavhan/neuro-agent) | [📄 Documentation](https://github.com/HasnainChavhan/neuro-agent#readme) |
+| **⚡ PulseData — Real-Time ETL Pipeline** | Automated e-commerce sales ETL, Airflow DAGs & dbt analytics models | `Airflow` `dbt` `PostgreSQL` `Docker` | [📦 View Repository](https://github.com/HasnainChavhan/pulse-etl) | [📄 Documentation](https://github.com/HasnainChavhan/pulse-etl#readme) |
+| **💳 AuditRisk AI — Credit Default Scoring** | Financial loan default scoring, SMOTE balancing, SHAP explainability | `XGBoost` `SHAP` `FastAPI` `pytest` | [📦 View Repository](https://github.com/HasnainChavhan/secure-audit) | [📄 Documentation](https://github.com/HasnainChavhan/secure-audit#readme) |
+| **🎭 VectraNLP — Sentiment Engine** | Fine-tuned BERT text sentiment engine with confidence metrics | `HuggingFace` `BERT` `Streamlit` | [📦 View Repository](https://github.com/HasnainChavhan/distro-orchestra) | [📄 Documentation](https://github.com/HasnainChavhan/distro-orchestra#readme) |
+| **📊 InsightBI — Executive Analytics Dashboard** | Real-time SQL metrics dashboard for sales & customer retention | `Plotly Dash` `PostgreSQL` `SQL` | [📦 View Repository](https://github.com/HasnainChavhan/codelens) | [📄 Documentation](https://github.com/HasnainChavhan/codelens#readme) |
+| **🧩 Algorithms Core — Python DSA Suite** | 25+ production-grade Python DSA solutions with complexity analysis | `Python` `pytest` `DSA Patterns` | [📦 View Repository](https://github.com/HasnainChavhan/leetcode-solutions) | [📄 Technical Specs](https://github.com/HasnainChavhan/leetcode-solutions#readme) |
 
 </div>
 
