@@ -11,8 +11,8 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnainchavhan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasnainChavhan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainchavhan@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/HasnainChavhan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavhanhasnain30@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hasnain29/)
 
 </div>
 
@@ -28,6 +28,7 @@ class SeniorAIEngineer:
         self.education  = "B.Tech in Artificial Intelligence & Data Science (2026)"
         self.expertise  = ["MLOps Pipelines", "LLMs / RAG Architectures", "Real-Time ETL", "High-Throughput APIs"]
         self.stack      = ["Python 3.10+", "FastAPI", "XGBoost", "LangChain", "Apache Airflow", "Docker", "dbt"]
+        self.email      = "chavhanhasnain30@gmail.com"
         self.location   = "India 🇮🇳"
         self.status     = "🚀 Open for High-Impact Software Engineering & AI Roles"
 
@@ -93,11 +94,11 @@ print(me.mission())
 
 ---
 
-## 🧩 LeetCode Competitive Coding Profile
+## 🧩 LeetCode Competitive Coding Profile (`Hasnain29`)
 
 <div align="center">
 
-![LeetCode Profile](https://leetcard.jacoblin.cool/HasnainChavhan?theme=dark&font=Fira+Code&ext=contest)
+[![LeetCode Profile](https://leetcard.jacoblin.cool/Hasnain29?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/u/Hasnain29/)
 
 </div>
 
@@ -111,9 +112,10 @@ print(me.mission())
 > - **Data & Analytics Engineering**
 > - **Backend Software Engineering (Python / FastAPI / Cloud)**
 
-📬 **Email**: [hasnainchavhan@gmail.com](mailto:hasnainchavhan@gmail.com)  
+📬 **Email**: [chavhanhasnain30@gmail.com](mailto:chavhanhasnain30@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/hasnainchavhan](https://linkedin.com/in/hasnainchavhan)  
 🌐 **GitHub**: [github.com/HasnainChavhan](https://github.com/HasnainChavhan)  
+🧩 **LeetCode**: [leetcode.com/u/Hasnain29/](https://leetcode.com/u/Hasnain29/)  
 
 ---
 
