@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Banner Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Hasnain%20Chavhan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Lead%20AI/MLOps%20Architect%20%7C%20Distributed%20Systems%20%7C%20GenAI%20Engineer&descAlignY=58&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Hasnain%20Chavhan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/MLOps%20Engineer%20%7C%20Data%20Scientist%20%7C%20B.Tech%202026&descAlignY=58&descSize=19" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Senior+AI+%26+MLOps+Architect;XGBoost+%7C+LangChain+%7C+FastAPI+%7C+Apache+Airflow+%7C+Docker;Building+Production-Grade+Distributed+AI+Systems;Open+for+Lead+%2F+Senior+Software+%26+AI+Engineer+Roles+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=AI+%26+MLOps+Engineer+(Fresher%2F2026+Batch);XGBoost+%7C+LangChain+%7C+FastAPI+%7C+Apache+Airflow+%7C+Docker;Building+Production-Grade+Distributed+AI+Systems;Open+for+Full-Time+AI%2FMLOps+%26+Data+Science+Roles+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -21,21 +21,22 @@
 ## ⚡ About Me
 
 ```python
-class SeniorAIEngineer:
+class AIMLOpsEngineer:
     def __init__(self):
         self.name       = "Hasnain Chavhan"
-        self.title      = "Lead AI / MLOps & Distributed Systems Architect"
-        self.education  = "B.Tech in Artificial Intelligence & Data Science (2026)"
-        self.expertise  = ["MLOps Pipelines", "LLMs / RAG Architectures", "Real-Time ETL", "High-Throughput APIs"]
+        self.role       = "AI / MLOps Engineer & Data Scientist"
+        self.education  = "B.Tech in Artificial Intelligence & Data Science (2026 Batch)"
+        self.experience = "Fresher / Entry-Level — Built 7+ Production-Grade Systems"
+        self.expertise  = ["MLOps Pipelines", "LLMs / RAG Architectures", "Real-Time ETL Pipelines", "REST Microservices"]
         self.stack      = ["Python 3.10+", "FastAPI", "XGBoost", "LangChain", "Apache Airflow", "Docker", "dbt"]
         self.email      = "chavhanhasnain30@gmail.com"
         self.location   = "India 🇮🇳"
-        self.status     = "🚀 Open for High-Impact Software Engineering & AI Roles"
+        self.status     = "🚀 Open for Full-Time Roles & High-Impact Opportunities"
 
     def mission(self):
-        return "Designing resilient, scalable, end-to-end AI/ML systems that deliver measurable enterprise business value."
+        return "Building clean, production-grade ML pipelines and scalable AI applications that solve real business problems."
 
-me = SeniorAIEngineer()
+me = AIMLOpsEngineer()
 print(me.mission())
 ```
 
@@ -106,11 +107,11 @@ print(me.mission())
 
 ## 🤝 Let's Connect
 
-> 💼 **Actively seeking Senior / Lead Roles in:**
-> - **Machine Learning & MLOps Engineering**
-> - **Generative AI / LLM Systems Architecture**
-> - **Data & Analytics Engineering**
-> - **Backend Software Engineering (Python / FastAPI / Cloud)**
+> 💼 **Actively seeking Entry-Level / Graduate / Full-Time Roles in:**
+> - **AI / MLOps Engineering**
+> - **Data Science & ML Engineering**
+> - **Data Engineering**
+> - **Python Software Engineering**
 
 📬 **Email**: [chavhanhasnain30@gmail.com](mailto:chavhanhasnain30@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/hasnainchavhan](https://linkedin.com/in/hasnainchavhan)  
