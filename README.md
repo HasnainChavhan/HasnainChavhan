@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Hasnain%20Chavhan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/MLOps%20Engineer%20%7C%20Data%20Scientist%20%7C%20Bounties%20%26%20Open-Source&descAlignY=58&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Hasnain%20Chavhan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/MLOps%20Engineer%20%7C%20Data%20Scientist%20%7C%20Active%20Bounty%20Hunter&descAlignY=58&descSize=19" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=AI+%26+MLOps+Engineer+(Fresher%2F2026+Batch);Active+Bounty+Hunter+%26+Open-Source+Contributor;XGBoost+%7C+LangChain+%7C+FastAPI+%7C+Apache+Airflow+%7C+Docker;Open+for+Full-Time+AI%2FMLOps+%26+Data+Science+Roles+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -48,7 +48,10 @@ print(me.mission())
 
 | Target Open Source Repository | Issue / Bounty Focus | Stack | Contribution Link |
 |---|---|---|---|
-| **🎧 BasedHardware / omi** | Cash Bounty Issue #15248: Timezone-aware Date Picker fix | `TypeScript` `Web App` `AI Wearable` | [🔗 View Code](https://github.com/HasnainChavhan/omi/blob/main/web/src/utils/datePickerFix.ts) |
+| **🎧 BasedHardware / omi** | Cash Bounty Issue #15248: Timezone-aware Date Picker fix | `TypeScript` `Web App` | [🔗 View Code](https://github.com/HasnainChavhan/omi/blob/main/web/src/utils/datePickerFix.ts) |
+| **🎧 BasedHardware / omi** | Cash Bounty Issue #15251: Memory Card Deletion Resilience fix | `TypeScript` `Web App` | [🔗 View Code](https://github.com/HasnainChavhan/omi/blob/main/web/src/utils/memoryCardFix.ts) |
+| **🎧 BasedHardware / omi** | Cash Bounty Issue #15245: Daily Summary Preference Safeguard fix | `TypeScript` `Web App` | [🔗 View Code](https://github.com/HasnainChavhan/omi/blob/main/web/src/utils/dailySummaryFix.ts) |
+| **🤖 ditto-subnet** | Bounty Board & Contributor Guide (Issue #2047) | `Documentation` `Subnet` | [🔗 View Code](https://github.com/HasnainChavhan/ditto-subnet/blob/main/docs/BOUNTY_BOARD_AND_CONTRIBUTOR_GUIDE.md) |
 | **🤖 LiteLLM** (`BerriAI/litellm`) | MLOps proxy health checker & latency monitoring utility | `Python` `FastAPI` `LLMs` | [🔗 View Code](https://github.com/HasnainChavhan/litellm/blob/main/cookbook/litellm_proxy_health_checker.py) |
 | **⚡ CrewAI** (`crewAIInc/crewAI`) | Agent observability & telemetry handler integration | `Python` `Multi-Agent` | [🔗 View Code](https://github.com/HasnainChavhan/crewAI/blob/main/examples/enterprise_telemetry_handler.py) |
 | **📈 Optuna** (`optuna/optuna`) | XGBoost early-stopping pruning callback tutorial | `Python` `XGBoost` `Optuna` | [🔗 View Code](https://github.com/HasnainChavhan/optuna/blob/master/tutorial/xgboost_pruning_example.py) |
