@@ -48,13 +48,14 @@ print(me.mission())
 
 | Target Open Source Repository | Issue / Bounty Focus | Stack | Contribution Link |
 |---|---|---|---|
+| **🚀 vLLM** (`vllm-project/vllm`) | High-throughput inference request latency benchmark monitor | `Python` `CUDA` `vLLM` | [🔗 View Code](https://github.com/HasnainChavhan/vllm/blob/main/benchmarks/throughput_latency_monitor.py) |
 | **🤖 LiteLLM** (`BerriAI/litellm`) | Algora Cash Bounty: Enterprise Cost Budget Guardrail Interceptor | `Python` `FastAPI` `LLMs` | [🔗 View Code](https://github.com/HasnainChavhan/litellm/blob/main/litellm/integrations/budget_guardrail.py) |
 | **🎧 BasedHardware / omi** | Cash Bounty Issue #15243: Vocabulary List Saver Fix | `TypeScript` `Web App` | [🔗 View Code](https://github.com/HasnainChavhan/omi/blob/main/web/src/utils/vocabSaverFix.ts) |
 | **🎧 BasedHardware / omi** | Cash Bounty Issue #15248: Timezone-aware Date Picker fix | `TypeScript` `Web App` | [🔗 View Code](https://github.com/HasnainChavhan/omi/blob/main/web/src/utils/datePickerFix.ts) |
 | **🎧 BasedHardware / omi** | Cash Bounty Issue #15251: Memory Card Deletion Resilience fix | `TypeScript` `Web App` | [🔗 View Code](https://github.com/HasnainChavhan/omi/blob/main/web/src/utils/memoryCardFix.ts) |
 | **🎧 BasedHardware / omi** | Cash Bounty Issue #15245: Daily Summary Preference Safeguard fix | `TypeScript` `Web App` | [🔗 View Code](https://github.com/HasnainChavhan/omi/blob/main/web/src/utils/dailySummaryFix.ts) |
 | **🤖 ditto-subnet** | Subnet Bounty Board & Contributor Guide (Issue #2047) | `Documentation` `Subnet` | [🔗 View Code](https://github.com/HasnainChavhan/ditto-subnet/blob/main/docs/BOUNTY_BOARD_AND_CONTRIBUTOR_GUIDE.md) |
-| **⚡ CrewAI** (`crewAIInc/crewAI`) | Agent observability & telemetry handler integration | `Python` `Multi-Agent` | [🔗 View Code](https://github.com/HasnainChavhan/crewAI/blob/main/examples/enterprise_telemetry_handler.py) |
+| **⚡ CrewAI** (`crewAIInc/crewAI`) | Agent observability & multi-agent rate limiter integration | `Python` `Multi-Agent` | [🔗 View Code](https://github.com/HasnainChavhan/crewAI/blob/main/examples/multi_agent_rate_limiter.py) |
 | **📈 Optuna** (`optuna/optuna`) | XGBoost early-stopping pruning callback tutorial | `Python` `XGBoost` `Optuna` | [🔗 View Code](https://github.com/HasnainChavhan/optuna/blob/master/tutorial/xgboost_pruning_example.py) |
 
 </div>
